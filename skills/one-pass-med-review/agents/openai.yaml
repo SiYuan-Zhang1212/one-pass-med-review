@@ -1,0 +1,4 @@
+interface:
+  display_name: "One Pass Med Review"
+  short_description: "Turn one-pass medical Q practice into review notes"
+  default_prompt: "Use $one-pass-med-review to process my captured medical practice session and generate a concise review report."
